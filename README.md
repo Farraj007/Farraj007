@@ -25,4 +25,4 @@
 <p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
 <p><a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>    
 </div>
-<p align="center"> <a href="https://github.com/Farraj007/users/follow?target=Farraj007"><img src="https://www.svgrepo.com/show/217753/github.svg" alt="BarhamFarraj" height="30" width="40" /></a>Follow Me </p>
+<p align="center"> <a href="https://github.com/Farraj007/users/follow?target=Farraj007"><img src="https://www.svgrepo.com/show/217753/github.svg" alt="BarhamFarraj" height="30" width="40" /></a></p>
