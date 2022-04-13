@@ -21,7 +21,7 @@
 
 <h3 >For contacting:</h3>
 <div align-content="space-around">
-<a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://img.favpng.com/25/4/21/linkedin-facebook-social-media-font-awesome-icon-png-favpng-QRqmwk6cNZRQZwxSAJpYRt4Rf_t.jpg" alt="Barham Farraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.svg" alt="Barham Farraj" height="30" width="40" /></a>
 <a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://img.cppng.com/download/2020-06/64770-computer-email-icons-free-hd-image.png" alt="Barham Farraj" height="30" width="40" /></a>
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/Farraj007/)  
 </div>
