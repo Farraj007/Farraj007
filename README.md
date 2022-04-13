@@ -21,7 +21,7 @@
 
 <h3 >For contacting:</h3>
 <div align-content="space-around">
-<a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a>
-<a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a>
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/Farraj007/)  
+<p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
+<p><a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
+<p> <img src="https://hit.yhype.me/github/profile?user_id=77174040" alt="BarhamFarraj"/> </p>    
 </div>
