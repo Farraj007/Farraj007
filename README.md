@@ -43,13 +43,4 @@
 <p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a> <a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
 </div>
 
-<span class="user-following-container js-form-toggle-container">
-    <!-- '"` --><!-- </textarea></xmp> --><form class="js-form-toggle-target" data-turbo="false" action="/users/follow?target=Farraj007" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VzCIVk8HAy58CAtlF4QHtf_mwyHcaD7jJpli4thaLIS7Ac9mcZQzXfwlHTG7iM7KiI3XhVYqu-7PHiEKBEmTPQ">
-      <input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow Farraj007" aria-label="Follow Farraj007" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:77174040,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:103587855,&quot;originating_url&quot;:&quot;https://github.com/Farraj007&quot;}}" data-hydro-click-hmac="d8e90a4cbb361f08f7ed5f5a49edd79e1c05e998f09e1c00982b86687cfb371b" data-disable-with="Follow">
-</form>
-    <!-- '"` --><!-- </textarea></xmp> --><form class="js-form-toggle-target" data-turbo="false" action="/users/unfollow?target=Farraj007" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="_akYw8T55uulcqTsOaw-ThKCBl-ySb_rt_PKvJAxri6GDgB6tqSWbnY7QD3RPM4kmdoJpdafQ0aW7knXqzVlLA">
-      <input type="submit" name="commit" value="Unfollow" class="btn btn-block" data-disable-with="Unfollow" title="Unfollow Farraj007" aria-label="Unfollow Farraj007">
-</form>  <img align="center" src="https://www.svgrepo.com/show/217753/github.svg" alt="BarhamFarraj" height="30" width="40" <form class="js-form-toggle-target" data-turbo="false" action="/users/follow?target=Farraj007" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VzCIVk8HAy58CAtlF4QHtf_mwyHcaD7jJpli4thaLIS7Ac9mcZQzXfwlHTG7iM7KiI3XhVYqu-7PHiEKBEmTPQ">
-      <input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow Farraj007" aria-label="Follow Farraj007" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:77174040,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:103587855,&quot;originating_url&quot;:&quot;https://github.com/Farraj007&quot;}}" data-hydro-click-hmac="d8e90a4cbb361f08f7ed5f5a49edd79e1c05e998f09e1c00982b86687cfb371b" data-disable-with="Follow">
-</form>></span>
 </footer>
