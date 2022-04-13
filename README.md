@@ -23,5 +23,6 @@
 <div align-content="space-around">
 <p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
 <p><a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
-<p> <img src="https://hit.yhype.me/github/profile?user_id=77174040" alt="BarhamFarraj"/> </p>    
+<p> <href="https://hit.yhype.me/github/profile?user_id=77174040" img src="https://www.svgrepo.com/show/217753/github.svg" alt="BarhamFarraj"/>Followers </p>    
+ ![](https://hit.yhype.me/github/profile?user_id=77174040)
 </div>
