@@ -43,5 +43,5 @@
 <p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a> <a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
 </div>
 
-<img align='center' src="https://www.svgrepo.com/show/217753/github.svg" alt="BarhamFarraj" height="30" width="40">
+<img align="center" src="https://www.svgrepo.com/show/217753/github.svg" alt="BarhamFarraj" height="30" width="40">
 </footer>
