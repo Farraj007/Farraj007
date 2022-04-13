@@ -6,21 +6,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic" alt="BarhamFarraj" /> </p>
 <a align="right" href="https://app.daily.dev/BarhamFarraj"><img align="right" src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=xrm" width="400" alt="Barham Farraj's Dev Card"/></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html5" width="40" height="40"/> </a>
