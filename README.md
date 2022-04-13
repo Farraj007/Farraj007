@@ -20,8 +20,8 @@
 
 
 <h3 >For contacting:</h3>
-<div align="space-between">
+<div align-content="space-around">
 <a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Barham Farraj" height="30" width="40" /></a>
-[![email](https://img.shields.io/static/v1.svg?label=Email&message=Signature&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](mailto:barhamfarraj@icloud.com)
+<a href="https://img.shields.io/static/v1.svg?label=Email&message=Signature&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical"mailto:barhamfarraj@icloud.com
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/Farraj007/)  
 </div>
