@@ -12,11 +12,11 @@
 <br>
 <br>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark)
-<br>
-<br>
-<br>
-<br>
+<a href="blank">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Farraj007&repo=github-readme-stats" />
+</a>
+
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
