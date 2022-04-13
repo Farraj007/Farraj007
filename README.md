@@ -4,9 +4,9 @@
 **Glad to see you here!** :star_struck: 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic" alt="BarhamFarraj" /> </p>
-<p > <a align="right" href="https://app.daily.dev/BarhamFarraj"><img align="right" src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=xrm" width="380" alt="Barham Farraj's Dev Card"/></a>
+<p align ='left'> <a align="right" href="https://app.daily.dev/BarhamFarraj"><img align="right" src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=xrm" width="380" alt="Barham Farraj's Dev Card"/></a>
 <a href="blank">
-  <img align='left' src="https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark" />
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark"width='400'/>
 </a></p>
 
 <br>
