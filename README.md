@@ -11,6 +11,9 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html5" width="40" height="40"/> </a>
