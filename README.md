@@ -6,8 +6,7 @@
 <p align="center"><a href="https://github.com/Farraj007/Farraj007/edit/main/README.md" alt="BarhamFarraj"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic"  /> </a></p>
 
 <br>
-  <div class="overflow-hidden relative self-stretch w-fit" style="transform-style: preserve-3d; border-radius: 2rem; transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; will-change: transform; transform: perspective(1000px) rotateX(14.7977deg) rotateY(13.1479deg) scale3d(1, 1, 1);"><div class="w-72 h-[25rem] relative overflow-hidden"><img src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" class="absolute block inset-0 w-full h-full m-auto object-cover" alt="Your Dev Card"></div><div class="glare-wrapper" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; border-radius: 0px; -webkit-mask-image: -webkit-radial-gradient(center, white, black);"><div class="glare" style="position: absolute; top: 50%; left: 50%; transform-origin: 0% 0%; pointer-events: none; width: 492.893px; height: 492.893px; transform: rotate(-138.379deg) translate(-50%, -50%); opacity: 0.247436; background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%); transition: opacity 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s;"></div><p align='left'> <a  href="https://app.daily.dev/BarhamFarraj"><img align='right' src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" width="400" alt="Barham Farraj's Dev Card"/></a></div></div>
-
+<p align='left'> <a  href="https://app.daily.dev/BarhamFarraj"><img align='right' src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" width="400" alt="Barham Farraj's Dev Card"/></a>
 <a href="blank"><br><br><br><br><br><br><br>
   <img  src="https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark"width='420'/>
 </a></p>
