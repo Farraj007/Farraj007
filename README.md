@@ -8,7 +8,7 @@
 <br>
 <p align='left'> <a  href="https://app.daily.dev/BarhamFarraj"><img align='right' src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" width="400" alt="Barham Farraj's Dev Card"/></a>
 <a href="blank"><br><br><br><br><br><br><br>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark"width='420'/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark"width='410'/>
 </a></p>
 
 <br>
