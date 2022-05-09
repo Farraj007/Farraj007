@@ -5,9 +5,10 @@
 <body>
 <p align="center"><a href="https://github.com/Farraj007/Farraj007/edit/main/README.md" alt="BarhamFarraj"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic"  /> </a></p>
 
-<br><p align="left"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraj007&layout=compact&theme=radical&hide_border=true" alt="Farraj007" /></p>
+<br>
 <div align='left'> <a  href="https://app.daily.dev/BarhamFarraj"><img align='right' src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" width="400" alt="Barham Farraj's Dev Card"/></a>
 <a href="blank"><br><br><br><br><br><br><br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraj007&layout=compact&theme=radical&hide_border=true" alt="Farraj007" />
   <img  src="https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark"width='410'/>
 </a></div>
 
