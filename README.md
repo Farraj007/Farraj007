@@ -3,7 +3,7 @@
 
 **Glad to see you here!** :star_struck: 
 <body>
-<p align="center"><a href="https://github.com/Farraj007/Farraj007/edit/main/README.md" alt="BarhamFarraj"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic"  /> </a></p>
+<p align="center"><a href="https://github.com/Farraj007/Farraj007/edit/main/README.md" alt="BarhamFarraj"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic"  /> </a><a href='https://img.shields.io/github/followers/Farraj007?label=Follow&style=social'> <img src='https://img.shields.io/github/followers/Farraj007?label=Follow&style=social'/></a></p>
 
 <br>
 <div align='left'> <a  href="https://app.daily.dev/BarhamFarraj"><img align='right' src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" width="400" alt="Barham Farraj's Dev Card"/></a>
@@ -42,7 +42,6 @@
 <h3 >For contacting:</h3>
 <div align="left">
 <p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a> <a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
-![GitHub followers](https://img.shields.io/github/followers/Farraj007?label=Follow&style=social)
 </div>
 
 </footer>
