@@ -5,7 +5,7 @@
 <body>
 <p align="center"><a href="https://github.com/Farraj007/Farraj007/edit/main/README.md" alt="BarhamFarraj"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic"  /> </a></p>
 
-<br>
+<br><p align="left"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraj007&layout=compact&theme=radical&hide_border=true" alt="Farraj007" /></p>
 <div align='left'> <a  href="https://app.daily.dev/BarhamFarraj"><img align='right' src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" width="400" alt="Barham Farraj's Dev Card"/></a>
 <a href="blank"><br><br><br><br><br><br><br>
   <img  src="https://github-readme-stats.vercel.app/api?username=Farraj007&show_icons=true&theme=dark"width='410'/>
@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40" height="40"/> </a>
@@ -31,9 +31,9 @@
      <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/90px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349404/heroku.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="vercel" width="40" height="40"/> </a>
-    <a href="https://miro.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="vercel" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="vercel" width="40" height="40"/> </a>
-    
+    <a href="https://miro.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="miro" width="40" height="40"/> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   
 </p>
 </body>
@@ -41,6 +41,7 @@
 <h3 >For contacting:</h3>
 <div align="left">
 <p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a> <a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
+![GitHub followers](https://img.shields.io/github/followers/Farraj007?label=Follow&style=social)
 </div>
 
 </footer>
