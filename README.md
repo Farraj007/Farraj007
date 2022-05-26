@@ -36,7 +36,8 @@
     <a href="https://miro.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="miro" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="figma" width="40" height="40"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  
+   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 </body>
 <footer>
