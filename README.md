@@ -35,21 +35,20 @@
     <a href="https://miro.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="miro" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="figma" width="40" height="40"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.elephantsql.com/" target="_blank" rel="noreferrer"> <img src="https://customer.elephantsql.com/img/service-logo.png" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354481/ubuntu.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/341847/github.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349374/git.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://docs.opencv.org/3.4/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://docs.opencv.org/3.4/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="http://dlib.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Dlib_c%2B%2B_library_logo.png" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.png" alt="seaborn" width="40" height="40"/> </a>
-   <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="seaborn" width="40" height="40"/> </a>
+   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLlite" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="Postgres" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="Next.js" width="40" height="40"/> </a>
+  <a href="https://www.elephantsql.com/" target="_blank" rel="noreferrer"> <img src="https://customer.elephantsql.com/img/service-logo.png" alt="ElephantSQL" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354481/ubuntu.svg" alt="Ubuntu" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/341847/github.svg" alt="Github" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349374/git.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://docs.opencv.org/3.4/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="Opencv" width="40" height="40"/> </a>
+  <a href="http://dlib.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Dlib_c%2B%2B_library_logo.png" alt="Dlib" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.png" alt="Matplotlib" width="40" height="40"/> </a>
+   <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="SQL" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="VScode" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="Pycharm" width="40" height="40"/> </a>
  </p>
   
 </body>
