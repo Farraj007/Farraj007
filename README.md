@@ -38,13 +38,24 @@
    <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.elephantsql.com/" target="_blank" rel="noreferrer"> <img src="https://customer.elephantsql.com/img/service-logo.png" alt="seaborn" width="40" height="40"/> </a> 
-</p>
+  <a href="https://www.elephantsql.com/" target="_blank" rel="noreferrer"> <img src="https://customer.elephantsql.com/img/service-logo.png" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354481/ubuntu.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/341847/github.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349374/git.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://docs.opencv.org/3.4/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://docs.opencv.org/3.4/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="http://dlib.net/" target="_blank" rel="noreferrer"> <img src="http://dlib.net/dlib-logo.png" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="seaborn" width="40" height="40"/> </a>
+   <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src=" https://www.svgrepo.com/show/374093/sql.svg" alt="seaborn" width="40" height="40"/> </a>
+ </p>
+  
 </body>
 <footer>
 <h3 >For contacting:</h3>
 <div align="left">
 <p><a href="https://www.linkedin.com/in/barham-farraj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Barham Farraj" height="30" width="40" /></a> <a href="mailto:barhamfarraj@icloud.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Barham Farraj" height="30" width="40" /></a></p>
+  
 </div>
 
 </footer>
