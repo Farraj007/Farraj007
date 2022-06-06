@@ -29,7 +29,6 @@
      <a href="https://nodejs.org" target="_blank"> <img src="https://www.svgrepo.com/show/373929/node.svg" alt="nodejs" width="40" height="40"/> </a>
      <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="40" height="40"/> </a>
-  <a href="https://www.kaggle.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349422/kaggle.svg" alt="kaggle" width="40" height="40"/> </a>
      <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/90px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349404/heroku.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="vercel" width="40" height="40"/> </a>
