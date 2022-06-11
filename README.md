@@ -27,6 +27,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
      <a href="https://nodejs.org" target="_blank"> <img src="https://www.svgrepo.com/show/373929/node.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="Next.js" width="40" height="40"/> </a>
      <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="40" height="40"/> </a>
      <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/90px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a>
