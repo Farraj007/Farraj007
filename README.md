@@ -48,8 +48,10 @@
   <a href="http://dlib.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Dlib_c%2B%2B_library_logo.png" alt="Dlib" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.png" alt="Matplotlib" width="40" height="40"/> </a>
    <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="SQL" width="40" height="40"/> </a>
+   <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> <img src=" https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.16.4/1652969502181/Microsoft.VisualStudio.Services.Icons.Default" alt="Thunder" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="VScode" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="Pycharm" width="40" height="40"/> </a>
+ 
  </p>
   
 </body>
