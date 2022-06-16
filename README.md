@@ -3,7 +3,8 @@
 
 **Glad to see you here!** :star_struck: 
 <body>
-<p align="center"><a href="https://github.com/Farraj007/Farraj007/edit/main/README.md" alt="BarhamFarraj"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic"  /> </a><a href=''> <img src='https://img.shields.io/github/followers/Farraj007?label=Follow&style=social'/></a></p>
+<p align="center"><a href="https://github.com/Farraj007/Farraj007/edit/main/README.md" alt="BarhamFarraj"> <img src="https://komarev.com/ghpvc/?username=Farraj007&label=Welcome+Viewer&color=red&style=plastic"  /> </a><a href=''> <img src='https://img.shields.io/github/followers/Farraj007?label=Follow&style=social'/></a>
+  <a href="https://www.linkedin.com/in/barham-farraj-258683147/" <img src="https://img.shields.io/badge/-BarhamFarraj-blue?style=square&logo=Linkedin&logoColor=white"></a>
 
 <br>
 <div align='left'> <a  href="https://app.daily.dev/BarhamFarraj"><img align='right' src="https://api.daily.dev/devcards/4dd0e3c4097744a5bb2ed15f310def69.png?r=ayz" width="400" alt="Barham Farraj's Dev Card"/></a>
