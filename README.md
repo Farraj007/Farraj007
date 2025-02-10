@@ -1,5 +1,5 @@
 <header><h1 align="left">Hi , I'm Barham Farraj 🤝</h1>
-<h3 align="left">Robotics Software Developer  💻,With Mechanical Engineering Degree 🔧</h3></header>
+<h3 align="left">Robotics Software Developer  💻,With Mechanical Engineering Degree 🔧, Ex-Web Devoloper 💻</h3></header>
 
 **Glad to see you here!** :star_struck: 
 <body>
